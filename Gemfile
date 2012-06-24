@@ -17,7 +17,7 @@ platforms :jruby do
   gem 'jruby-openssl'
   gem 'jdbc-mysql', :require => false
   gem 'jdbc-sqlite3', :require => false
-  gem 'torquebox-server'
+  gem 'trinidad'
 end
 
 
